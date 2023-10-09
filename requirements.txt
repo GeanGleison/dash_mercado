@@ -1,0 +1,7 @@
+Streamlit
+Pandas
+Fundamentus
+Matplotlib
+Seaborn
+Datetime
+Plotly
