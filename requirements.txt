@@ -5,3 +5,4 @@ Matplotlib
 Seaborn
 Datetime
 Plotly
+yfinance
